@@ -2,7 +2,7 @@
 
 ## Description
 
-This particular repository purpose was to help a marketing agency, Horiseon Socail Solutions Inc., with their existing website to make it more accessible and effiencient in their code. 
+This particular repository purpose was to help a marketing agency, Horiseon Socail Solutions Inc., with their existing website to follow accessibiliy standards and help make their code more effecient and optimized for search engines.
 
 ## Instalation 
 
